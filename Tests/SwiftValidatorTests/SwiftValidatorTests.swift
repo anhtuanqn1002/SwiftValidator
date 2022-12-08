@@ -32,7 +32,7 @@ class SwiftValidatorTests: XCTestCase {
     let VALID_CARD_EXPIRY_MONTH = "10"
     let INVALID_CARD_EXPIRY_MONTH = "13"
     
-    let VALID_CARD_EXPIRY_YEAR = "2021"
+    let VALID_CARD_EXPIRY_YEAR = "2022"
     let INVALID_CARD_EXPIRY_YEAR = "2016"
     
     let LEN_3 = "hey"
